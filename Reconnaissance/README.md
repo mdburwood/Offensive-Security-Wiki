@@ -14,10 +14,12 @@ A thorough reconnaissance process enables pentesters to tailor their approach, m
 
 ### 1. **Passive Reconnaissance Tools**
 #### A. OSINT (Open Source Intelligence) Tools
-- **Maltego**: Visualize relationships between entities like domains, emails, IPs, and more.
-- **Shodan**: Discover internet-connected devices and services with detailed metadata.
-- **theHarvester**: Gather emails, subdomains, IPs, and other metadata.
-- **Amass**: Map subdomains and domains using OSINT and DNS enumeration.
+1. Paid
+- **[Maltego](https://www.maltego.com/)**: Social media, personal discovery mechnaism
+- **[Shodan](https://www.shodan.io/)**: Discover internet-connected devices and services with detailed metadata.
+2. Open Source
+- **[theHarvester](https://github.com/laramies/theHarvester)**: Gather emails, subdomains, IPs, and other metadata. Requires API-keys to be effective
+- **[Amass](https://github.com/owasp-amass/amass)**: Map subdomains and domains using OSINT and DNS enumeration.
 
 #### B. Search Engines and Databases
 - **Google Dorking**: Advanced search operators to uncover sensitive information.

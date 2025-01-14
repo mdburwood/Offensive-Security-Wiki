@@ -3,7 +3,7 @@
 This repository is a comprehensive collection of tools, techniques, and methodologies for penetration testing and cybersecurity research. Whether you're a beginner or an experienced professional, this wiki will provide valuable insights and resources.
 
 ## Consultant Handbook: 
-Congrats on becoming a consultant for Burwood Group! First things first, handling clients depends on the client as well as their industry. As a cybersecurity consultant there's a quick guide located [here](add link later)
+Congrats on becoming a consultant for Burwood Group! First things first, handling clients depends on the client as well as their industry. As a cybersecurity consultant there's a quick guide located [here](https://github.com/mdburwood/Offensive-Security-Wiki/tree/main/Consultant%20Handbook)
 
 ## Technical Items:
 - [Reconnaissance](https://github.com/mdburwood/Offensive-Security-Wiki/tree/main/Reconnaissance)
@@ -24,3 +24,7 @@ Congrats on becoming a consultant for Burwood Group! First things first, handlin
 - [Blue Team Defense](https://github.com/mdburwood/Offensive-Security-Wiki/tree/main/Blue%20Team%20Defense)
 - [Useful Links and Resources](https://github.com/mdburwood/Offensive-Security-Wiki/tree/main/Useful%20Links%20and%20Resources)
 - [CTF Challenges and Walkthroughs](https://github.com/mdburwood/Offensive-Security-Wiki/tree/main/CTF%20Challenges%20and%20Walkthroughs)
+
+## References
+A detailed pentesting methodology can be found at the [Penetration Testing Execution Standard](https://www.pentest-standard.org/index.php/Main_Page)
+
